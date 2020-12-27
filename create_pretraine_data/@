@@ -1,0 +1,73 @@
+nohup: ignoring input
+Traceback (most recent call last):
+  File "bertPrep.py", line 15, in <module>
+    import Downloader
+  File "/share/wuxing/pretrain_dataset/data/Downloader.py", line 18, in <module>
+    from GLUEDownloader import GLUEDownloader
+  File "/share/wuxing/pretrain_dataset/data/GLUEDownloader.py", line 15, in <module>
+    import wget
+ModuleNotFoundError: No module named 'wget'
+Traceback (most recent call last):
+  File "bertPrep.py", line 15, in <module>
+    import Downloader
+  File "/share/wuxing/pretrain_dataset/data/Downloader.py", line 18, in <module>
+    from GLUEDownloader import GLUEDownloader
+  File "/share/wuxing/pretrain_dataset/data/GLUEDownloader.py", line 15, in <module>
+    import wget
+ModuleNotFoundError: No module named 'wget'
+Traceback (most recent call last):
+  File "bertPrep.py", line 15, in <module>
+    import Downloader
+  File "/share/wuxing/pretrain_dataset/data/Downloader.py", line 18, in <module>
+    from GLUEDownloader import GLUEDownloader
+  File "/share/wuxing/pretrain_dataset/data/GLUEDownloader.py", line 15, in <module>
+    import wget
+ModuleNotFoundError: No module named 'wget'
+Traceback (most recent call last):
+  File "bertPrep.py", line 15, in <module>
+    import Downloader
+  File "/share/wuxing/pretrain_dataset/data/Downloader.py", line 18, in <module>
+    from GLUEDownloader import GLUEDownloader
+  File "/share/wuxing/pretrain_dataset/data/GLUEDownloader.py", line 15, in <module>
+    import wget
+ModuleNotFoundError: No module named 'wget'
+Traceback (most recent call last):
+  File "bertPrep.py", line 15, in <module>
+    import Downloader
+  File "/share/wuxing/pretrain_dataset/data/Downloader.py", line 18, in <module>
+    from GLUEDownloader import GLUEDownloader
+  File "/share/wuxing/pretrain_dataset/data/GLUEDownloader.py", line 15, in <module>
+    import wget
+ModuleNotFoundError: No module named 'wget'
+Traceback (most recent call last):
+  File "bertPrep.py", line 15, in <module>
+    import Downloader
+  File "/share/wuxing/pretrain_dataset/data/Downloader.py", line 18, in <module>
+    from GLUEDownloader import GLUEDownloader
+  File "/share/wuxing/pretrain_dataset/data/GLUEDownloader.py", line 15, in <module>
+    import wget
+ModuleNotFoundError: No module named 'wget'
+Traceback (most recent call last):
+  File "bertPrep.py", line 15, in <module>
+    import Downloader
+  File "/share/wuxing/pretrain_dataset/data/Downloader.py", line 18, in <module>
+    from GLUEDownloader import GLUEDownloader
+  File "/share/wuxing/pretrain_dataset/data/GLUEDownloader.py", line 15, in <module>
+    import wget
+ModuleNotFoundError: No module named 'wget'
+Traceback (most recent call last):
+  File "bertPrep.py", line 15, in <module>
+    import Downloader
+  File "/share/wuxing/pretrain_dataset/data/Downloader.py", line 18, in <module>
+    from GLUEDownloader import GLUEDownloader
+  File "/share/wuxing/pretrain_dataset/data/GLUEDownloader.py", line 15, in <module>
+    import wget
+ModuleNotFoundError: No module named 'wget'
+Traceback (most recent call last):
+  File "bertPrep.py", line 15, in <module>
+    import Downloader
+  File "/share/wuxing/pretrain_dataset/data/Downloader.py", line 18, in <module>
+    from GLUEDownloader import GLUEDownloader
+  File "/share/wuxing/pretrain_dataset/data/GLUEDownloader.py", line 15, in <module>
+    import wget
+ModuleNotFoundError: No module named 'wget'
